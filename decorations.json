@@ -1,0 +1,115 @@
+[
+    {
+      "id": 1,
+      "name": "Floral Archway",
+      "details": "Beautiful archway adorned with seasonal flowers and greenery.",
+      "price": 250,
+      "image": "https://example.com/images/floral-archway.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Elegant Table Centerpieces",
+      "details": "Luxurious centerpieces featuring candles, flowers, and crystal accents.",
+      "price": 150,
+      "image": "https://example.com/images/elegant-table-centerpieces.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Rustic Wooden Backdrop",
+      "details": "A handcrafted wooden backdrop perfect for rustic-themed events.",
+      "price": 300,
+      "image": "https://example.com/images/rustic-wooden-backdrop.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Balloon Garland",
+      "details": "Customizable balloon garland available in various color combinations.",
+      "price": 200,
+      "image": "https://example.com/images/balloon-garland.jpg"
+    },
+    {
+      "id": 5,
+      "name": "LED Fairy Lights",
+      "details": "String lights to add a magical ambiance to any event.",
+      "price": 100,
+      "image": "https://example.com/images/led-fairy-lights.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Vintage Photo Booth Setup",
+      "details": "Photo booth with vintage props and a themed backdrop.",
+      "price": 400,
+      "image": "https://example.com/images/vintage-photo-booth-setup.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Luxury Drapes",
+      "details": "Elegant drapes for creating a classy and sophisticated atmosphere.",
+      "price": 350,
+      "image": "https://example.com/images/luxury-drapes.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Garden Pathway Lights",
+      "details": "LED lights to illuminate pathways and gardens for outdoor events.",
+      "price": 120,
+      "image": "https://example.com/images/garden-pathway-lights.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Custom Name Boards",
+      "details": "Personalized boards with calligraphy or printed designs.",
+      "price": 180,
+      "image": "https://example.com/images/custom-name-boards.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Themed Party Decorations",
+      "details": "Custom decorations based on specific themes such as tropical or vintage.",
+      "price": 500,
+      "image": "https://example.com/images/themed-party-decorations.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Luxury Wedding Aisle",
+      "details": "Decorated wedding aisle with petals, candles, and elegant designs.",
+      "price": 600,
+      "image": "https://example.com/images/luxury-wedding-aisle.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Hanging Floral Installations",
+      "details": "Beautiful overhead floral arrangements for a grand look.",
+      "price": 800,
+      "image": "https://example.com/images/hanging-floral-installations.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Chandelier Rental",
+      "details": "Crystal chandeliers to add a touch of glamour to the event.",
+      "price": 400,
+      "image": "https://example.com/images/chandelier-rental.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Outdoor Tent Decorations",
+      "details": "Decorated tents for outdoor events, complete with lights and drapes.",
+      "price": 1000,
+      "image": "https://example.com/images/outdoor-tent-decorations.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Flower Walls",
+      "details": "Stunning flower walls for photo backdrops and event highlights.",
+      "price": 700,
+      "image": "https://example.com/images/flower-walls.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Festive Lanterns",
+      "details": "Decorative lanterns for a festive and vibrant atmosphere.",
+      "price": 220,
+      "image": "https://example.com/images/festive-lanterns.jpg"
+    }
+  ]
+  

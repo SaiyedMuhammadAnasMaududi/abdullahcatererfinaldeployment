@@ -1,0 +1,131 @@
+[
+    {
+      "id": "1",
+      "name": "Tropical Paradise Resort",
+      "location": "Maldives",
+      "availability": true,
+      "details": "Luxurious beachfront resort with private villas and crystal-clear waters.",
+      "image": "https://example.com/images/tropical-paradise-resort.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Mountain Retreat Lodge",
+      "location": "Swiss Alps",
+      "availability": false,
+      "details": "Cozy lodge surrounded by scenic mountains and skiing opportunities.",
+      "image": "https://example.com/images/mountain-retreat-lodge.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Urban Skyline Hotel",
+      "location": "New York, USA",
+      "availability": true,
+      "details": "Modern hotel with panoramic views of the city skyline.",
+      "image": "https://example.com/images/urban-skyline-hotel.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Desert Oasis Camp",
+      "location": "Dubai, UAE",
+      "availability": true,
+      "details": "Authentic desert camping experience with luxurious tents and camel rides.",
+      "image": "https://example.com/images/desert-oasis-camp.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Historic Castle Stay",
+      "location": "Edinburgh, Scotland",
+      "availability": false,
+      "details": "Stay in a restored historic castle with royal treatments.",
+      "image": "https://example.com/images/historic-castle-stay.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Rainforest Eco-Lodge",
+      "location": "Amazon Rainforest",
+      "availability": true,
+      "details": "Sustainable eco-lodge amidst lush greenery and exotic wildlife.",
+      "image": "https://example.com/images/rainforest-eco-lodge.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Beachfront Cabins",
+      "location": "Bali, Indonesia",
+      "availability": true,
+      "details": "Private cabins with direct access to sandy beaches and surfing spots.",
+      "image": "https://example.com/images/beachfront-cabins.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Countryside Vineyard",
+      "location": "Tuscany, Italy",
+      "availability": false,
+      "details": "Wine tasting and relaxing stays in the heart of Italy's wine region.",
+      "image": "https://example.com/images/countryside-vineyard.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Clifftop Viewpoint Villa",
+      "location": "Santorini, Greece",
+      "availability": true,
+      "details": "Stunning villa with breathtaking views of the caldera and sunset.",
+      "image": "https://example.com/images/clifftop-viewpoint-villa.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Forest Cabin Hideaway",
+      "location": "Banff, Canada",
+      "availability": true,
+      "details": "Rustic cabin surrounded by pristine forests and hiking trails.",
+      "image": "https://example.com/images/forest-cabin-hideaway.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Luxury Safari Lodge",
+      "location": "Kruger National Park, South Africa",
+      "availability": true,
+      "details": "Experience the wilderness with guided safaris and luxurious stays.",
+      "image": "https://example.com/images/luxury-safari-lodge.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Island Overwater Bungalows",
+      "location": "Bora Bora, French Polynesia",
+      "availability": true,
+      "details": "Exclusive overwater bungalows with direct access to turquoise lagoons.",
+      "image": "https://example.com/images/island-overwater-bungalows.jpg"
+    },
+    {
+      "id": "13",
+      "name": "Cultural Heritage Hotel",
+      "location": "Kyoto, Japan",
+      "availability": false,
+      "details": "Traditional ryokan experience with Japanese gardens and hot springs.",
+      "image": "https://example.com/images/cultural-heritage-hotel.jpg"
+    },
+    {
+      "id": "14",
+      "name": "Luxury Cruise Ship",
+      "location": "Caribbean",
+      "availability": true,
+      "details": "An all-inclusive cruise experience with premium amenities.",
+      "image": "https://example.com/images/luxury-cruise-ship.jpg"
+    },
+    {
+      "id": "15",
+      "name": "Winter Wonderland Chalet",
+      "location": "Lapland, Finland",
+      "availability": true,
+      "details": "Snowy chalets with Northern Lights views and reindeer sleigh rides.",
+      "image": "https://example.com/images/winter-wonderland-chalet.jpg"
+    },
+    {
+      "id": "16",
+      "name": "Tropical Jungle Resort",
+      "location": "Costa Rica",
+      "availability": true,
+      "details": "Immersive jungle resort with adventure activities and wildlife tours.",
+      "image": "https://example.com/images/tropical-jungle-resort.jpg"
+    }
+  ]
+  

@@ -1,0 +1,115 @@
+[
+    {
+      "id": 1,
+      "name": "Grilled Salmon with Lemon Butter",
+      "details": "Fresh salmon grilled to perfection, served with a tangy lemon butter sauce.",
+      "price": 15.99,
+      "image": "https://example.com/images/grilled-salmon.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Classic Caesar Salad",
+      "details": "Crisp romaine lettuce, croutons, and parmesan cheese tossed in Caesar dressing.",
+      "price": 8.99,
+      "image": "https://example.com/images/classic-caesar-salad.jpg"
+    },
+    {
+      "id": 3,
+      "name": "BBQ Chicken Pizza",
+      "details": "Wood-fired pizza topped with BBQ chicken, red onions, and cilantro.",
+      "price": 12.49,
+      "image": "https://example.com/images/bbq-chicken-pizza.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Spaghetti Carbonara",
+      "details": "Traditional Italian pasta dish with eggs, cheese, pancetta, and black pepper.",
+      "price": 10.99,
+      "image": "https://example.com/images/spaghetti-carbonara.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Vegetarian Burrito Bowl",
+      "details": "A hearty bowl filled with rice, beans, grilled vegetables, and guacamole.",
+      "price": 9.99,
+      "image": "https://example.com/images/vegetarian-burrito-bowl.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Margherita Pizza",
+      "details": "Classic pizza with fresh tomatoes, mozzarella, and basil leaves.",
+      "price": 11.49,
+      "image": "https://example.com/images/margherita-pizza.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Chicken Tikka Masala",
+      "details": "Chunks of roasted chicken cooked in a creamy spiced curry sauce.",
+      "price": 13.99,
+      "image": "https://example.com/images/chicken-tikka-masala.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Beef Steak with Garlic Mashed Potatoes",
+      "details": "Juicy grilled steak served with creamy garlic mashed potatoes.",
+      "price": 17.99,
+      "image": "https://example.com/images/beef-steak-garlic-potatoes.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Seafood Paella",
+      "details": "A flavorful Spanish rice dish loaded with shrimp, mussels, and calamari.",
+      "price": 16.49,
+      "image": "https://example.com/images/seafood-paella.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Vegetable Stir-Fry",
+      "details": "A mix of fresh vegetables stir-fried in a savory sauce, served with rice.",
+      "price": 9.49,
+      "image": "https://example.com/images/vegetable-stir-fry.jpg"
+    },
+    {
+      "id": 11,
+      "name": "French Onion Soup",
+      "details": "Rich beef broth with caramelized onions, topped with melted cheese.",
+      "price": 6.99,
+      "image": "https://example.com/images/french-onion-soup.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Lamb Chops with Mint Sauce",
+      "details": "Tender lamb chops grilled and served with a refreshing mint sauce.",
+      "price": 18.99,
+      "image": "https://example.com/images/lamb-chops-mint-sauce.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Shrimp Alfredo Pasta",
+      "details": "Creamy Alfredo pasta with sautéed shrimp and Parmesan cheese.",
+      "price": 14.49,
+      "image": "https://example.com/images/shrimp-alfredo-pasta.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Tuna Poke Bowl",
+      "details": "Hawaiian-style bowl with marinated tuna, rice, and fresh vegetables.",
+      "price": 12.99,
+      "image": "https://example.com/images/tuna-poke-bowl.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Chocolate Lava Cake",
+      "details": "Rich chocolate cake with a molten chocolate center, served warm.",
+      "price": 7.99,
+      "image": "https://example.com/images/chocolate-lava-cake.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Grilled Veggie Platter",
+      "details": "Assorted grilled vegetables served with hummus and pita bread.",
+      "price": 10.49,
+      "image": "https://example.com/images/grilled-veggie-platter.jpg"
+    }
+  ]
+  
